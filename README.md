@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hi-person
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning more python and js
+- 🌱 I’m currently learning more python and c++
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me... idk
 
