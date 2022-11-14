@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @hi-person
-- 👀 I’m interested in stuff
-- 🌱 I’m currently learning more python and c++
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me... idk
+Bad at coding, only Python and c++ (does html+css count?)
 
 <!---
 hi-person/hi-person is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
